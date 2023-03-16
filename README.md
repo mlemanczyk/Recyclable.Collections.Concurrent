@@ -1,2 +1,2 @@
 # Recyclable.Collections.Concurrent
-TBD
+Recyclable.Collections.Concurrent project is an open source framework providing parallel operations, using recyclable memory arrays. It aims at minimal memory footprint and the highest performance.
